@@ -10,7 +10,7 @@
     margin-bottom:20px;
 }
 .feed_input{
-    border:1px solid light gray;
+    border:1px solid lightgray;
     border-radius:30px;
     display:flex;
     padding:10px;
@@ -32,4 +32,8 @@
 }
 .feed_input>form>button{
     display:none;
+}
+.feed_inputOptions{
+    display:flex;
+    justify-content: space-evenly;
 }
